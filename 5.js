@@ -121,6 +121,34 @@ console.log(hasilUjian([
 }
 */
 
+
+console.log(hasilUjian([
+    {
+        nama: "Adam",
+        nilai: 23
+    },
+    {
+        nama: "pr",
+        nilai: 69
+    },
+    {
+        nama: "m",
+        nilai: 97
+    },
+    {
+        nama: "zzzzzzzzz",
+        nilai: 83
+    },
+    {
+        nama: "kk",
+        nilai: 45
+    },
+    {
+        nama: "halo",
+        nilai: 77
+    },
+]));
+
 console.log(hasilUjian([]));
 // "TIDAK ADA PESERTA UJIAN"
 
